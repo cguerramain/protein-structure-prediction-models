@@ -1,5 +1,7 @@
 A list of papers (or presentations/videos when no paper has been released) 
-using generative models for protein structure prediction.
+using deep learning models for protein structure prediction, and design. 
+This repo is based off of this 
+[repo](https://github.com/yangkky/Machine-learning-for-proteins/blob/master/README.md).
 
 ### Reviews
 **Analysis of distance‐based protein structure prediction by deep 
@@ -7,6 +9,28 @@ learning in CASP13**<br>
 Jinbo Xu, Sheng Wang.<br>
 *Proteins, August 2019*<br>
 [[10.1002/prot.25810](https://doi.org/10.1002/prot.25810)]
+
+### Generative Models
+**Accelerating Protein Design Using Autoregressive Generative Models**<br>
+Adam Riesselman, Jung-Eun Shin, Aaron Kollasch, Conor McMahon, Elana Simon, 
+Chris Sander, Aashish Manglik, Andrew Kruse, Debora Marks<br>
+*Preprint, Sept 2019*<br>
+[[10.1101/757252](https://doi.org/10.1101/757252)]
+
+**Fully Differentiable Full-Atom Protein Back-Bone Generation**<br>
+Namrata Anand, Raphael Eguchi, Po-Ssu Huang.<br>
+*ICLR, May 2019*<br>
+[[OpenReview](https://openreview.net/pdf?id=SJxnVL8YOV)]
+
+**Generative Models for Graph-Based Protein Design**<br>
+John Ingraham, Vikas K. Garg, Regina Barzilay, Tommi Jaakkola<br>
+*ICLR, May 2019*<br>
+[[OpenReview](https://openreview.net/forum?id=SJgxrLLKOE)]
+
+**How to Hallucinate Functional Proteins**<br>
+Zak Costello, Hector Garcia Martin<br>
+*Preprint, March 2019*<br>
+[[arXiv](https://arxiv.org/abs/1903.00458)]  
 
 ### Design
 **Accelerating Protein Design Using Autoregressive Generative Models**<br>
@@ -20,6 +44,12 @@ John Ingraham, Vikas K. Garg, Regina Barzilay, Tommi Jaakkola<br>
 *ICLR, May 2019*<br>
 [[OpenReview](https://openreview.net/forum?id=SJgxrLLKOE)]
 
+**How to Hallucinate Functional Proteins**<br>
+Zak Costello, Hector Garcia Martin<br>
+*Preprint, March 2019*<br>
+[[arXiv](https://arxiv.org/abs/1903.00458)]  
+
+
 ### Structure Prediction
 **Distance-Based Protein Folding Powered by Deep Learning**<br>
 Jinbo Xu.<br>
@@ -31,13 +61,13 @@ Namrata Anand, Raphael Eguchi, Po-Ssu Huang.<br>
 *ICLR, May 2019*<br>
 [[OpenReview](https://openreview.net/pdf?id=SJxnVL8YOV)]
 
-**End-to-End Differentiable Learning of Protein Structure**
+**End-to-End Differentiable Learning of Protein Structure**<br>
 Mohammed AlQuraishi.<br>
 *Cell Systems, April 2019*<br>
 [[10.1016/j.cels.2019.03.006](https://doi.org/10.1016/j.cels.2019.03.006)]
 
 ### Representation Learning
-**Modeling the Language of Life - Deep Learning Protein Sequences**
+**Modeling the Language of Life - Deep Learning Protein Sequences**<br>
 Heinzinger M, Elnaggar A, Wang Y, Dallago C, Nechaev D, Matthes F, Rost B<br>
 *Preprint, Sept 2019*<br>
 [[10.1101/614313](https://doi.org/10.1101/614313)]
