@@ -70,6 +70,7 @@ Mohammed AlQuraishi.<br>
 **De novo protein folding using statistical potentials from deep learning** (DeepMind)<br>
 R.Evans,  J.Jumper, J.Kirkpatrick, L.Sifre, T.F.G.Green, C.Qin, A.Zidek, A.Nelson, A.Bridgland, H.Penedones, S.Petersen, K.Simonyan, D.T.Jones, K.Kavukcuoglu, D.Hassabis, A.W.Senior<br>
 *CASP13 Presentation, Feb 2019*<br>
+[[Video Presentation](https://www.youtube.com/watch?v=uQ1uVbrIv-Q)]
 [[Structure Prediction Presentation](http://predictioncenter.org/casp13/doc/presentations/Pred_CASP13-Structure-AlphaFold-Jumper.pdf)]
 [[Distogram/Contact Prediction Presentation](http://predictioncenter.org/casp13/doc/presentations/Pred_CASP13-DeepLearning-AlphaFold-Senior.pdf)]
 
