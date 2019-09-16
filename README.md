@@ -55,6 +55,7 @@ Zak Costello, Hector Garcia Martin<br>
 Jinbo Xu.<br>
 *PNAS, August 2019*<br>
 [[10.1073/pnas.1821309116](https://doi.org/10.1073/pnas.1821309116)]
+[[Presentation](http://predictioncenter.org/casp13/doc/presentations/Pred_CASP13_contacts_JinboXu.pdf)]
 
 **Fully Differentiable Full-Atom Protein Back-Bone Generation**<br>
 Namrata Anand, Raphael Eguchi, Po-Ssu Huang.<br>
@@ -65,6 +66,13 @@ Namrata Anand, Raphael Eguchi, Po-Ssu Huang.<br>
 Mohammed AlQuraishi.<br>
 *Cell Systems, April 2019*<br>
 [[10.1016/j.cels.2019.03.006](https://doi.org/10.1016/j.cels.2019.03.006)]
+
+**De novo protein folding using statistical potentials from deep learning** (DeepMind)<br>
+R.Evans,  J.Jumper, J.Kirkpatrick, L.Sifre, T.F.G.Green, C.Qin, A.Zidek, A.Nelson, A.Bridgland, H.Penedones, S.Petersen, K.Simonyan, D.T.Jones, K.Kavukcuoglu, D.Hassabis, A.W.Senior<br>
+*CASP13 Presentation, Feb 2019*<br>
+[[Structure Prediction Presentation](http://predictioncenter.org/casp13/doc/presentations/Pred_CASP13-Structure-AlphaFold-Jumper.pdf)]
+[[Distogram/Contact Prediction Presentation](http://predictioncenter.org/casp13/doc/presentations/Pred_CASP13-DeepLearning-AlphaFold-Senior.pdf)]
+
 
 ### Representation Learning
 **Modeling the Language of Life - Deep Learning Protein Sequences**<br>
