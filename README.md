@@ -72,7 +72,7 @@ R.Evans,  J.Jumper, J.Kirkpatrick, L.Sifre, T.F.G.Green, C.Qin, A.Zidek, A.Nelso
 *CASP13 Presentation, Feb 2019*<br>
 [[Video Presentation](https://www.youtube.com/watch?v=uQ1uVbrIv-Q)]
 [[Structure Prediction Presentation](http://predictioncenter.org/casp13/doc/presentations/Pred_CASP13-Structure-AlphaFold-Jumper.pdf)]
-[[Distogram/Contact Prediction Presentation](http://predictioncenter.org/casp13/doc/presentations/Pred_CASP13-DeepLearning-AlphaFold-Senior.pdf)]
+[[Distogram/Contact Prediction Presentation](http://predictioncenter.org/casp13/doc/presentations/Pred_CASP13-DeepLearning-AlphaFold-Senior.pdf)] [[Third-Party, Open-Source Implementation](https://github.com/dellacortelab/prospr)]
 
 
 ### Representation Learning
